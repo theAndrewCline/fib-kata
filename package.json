@@ -1,0 +1,26 @@
+{
+  "name": "fib-kata",
+  "version": "1.0.0",
+  "description": "fibonacci kata",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theAndrewCline/fib-kata.git"
+  },
+  "keywords": [
+    "kata",
+    "js"
+  ],
+  "author": "Andrew Cline",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theAndrewCline/fib-kata/issues"
+  },
+  "homepage": "https://github.com/theAndrewCline/fib-kata#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
