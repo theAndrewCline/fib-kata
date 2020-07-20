@@ -6,7 +6,7 @@ Simple JavaScript Code Kata
 
 create a function that that will return the number corrilating the given position in the fibbinacci sequence.
 
-see this (explaination)[https://en.wikipedia.org/wiki/Fibonacci_number] for questions on the sequence
+see this [explaination](https://en.wikipedia.org/wiki/Fibonacci_number) for questions on the sequence
 
 after you make the first test pass, commit and provide a description in the commit message of what you changed.
 
