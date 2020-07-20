@@ -4,7 +4,7 @@ Simple JavaScript Code Kata
 
 ## Instructions
 
-create a function that that will return the number corrilating the given position in the fibbinacci sequence.
+create a function that that will return the number corrilating the given position in the fibinacci sequence.
 
 see this [explaination](https://en.wikipedia.org/wiki/Fibonacci_number) for questions on the sequence
 
