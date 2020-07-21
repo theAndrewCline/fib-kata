@@ -19,7 +19,7 @@ requirements:
  - node 8 or greater
  - npm 6 || yarn
 
-- fork on your Github account
+- ***fork on your Github account***
 - run `npm i` or `yarn install` to install project dependancies
 
 ### Submission
