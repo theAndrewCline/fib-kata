@@ -20,9 +20,8 @@ requirements:
  - npm 6 || yarn
 
 - fork on your Github account
-- create a new branch using your name or github user name
 - run `npm i` or `yarn install` to install project dependancies
 
 ### Submission
-
+- create a new branch using your name or github user name
 - create a pull request to the master repository on this account for review
