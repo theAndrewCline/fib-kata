@@ -19,7 +19,6 @@ function main(num) {
     console.log("Number cant be negative");
   }
   else {
-    
     return fibarray[num]; 
   }
 
